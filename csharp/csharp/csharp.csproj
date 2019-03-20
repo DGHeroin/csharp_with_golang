@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{49DD6145-908F-49BF-8D48-377E322A51D3}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>csharp_with_golang</RootNamespace>
-    <AssemblyName>csharp-with-golang</AssemblyName>
+    <RootNamespace>csharp</RootNamespace>
+    <AssemblyName>csharp</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

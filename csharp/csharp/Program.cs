@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Runtime.InteropServices;
 
-namespace csharp_with_golang {
+namespace csharp {
     class Program {
         static void Main(string[] args) {
             var ins = new UnManagedInterop();
